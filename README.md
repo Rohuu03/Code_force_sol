@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 6 |
+| 11 | 7 |
 
 ---
 
@@ -17,6 +17,7 @@
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (7)
 - [math](#math) (2)
+- [sortings](#sortings) (1)
 - [strings](#strings) (2)
 
 ---
@@ -60,6 +61,12 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 599C | [Day at the Beach](https://codeforces.com/contest/599/problem/C) | 1600 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/599/C%20-%20Day%20at%20the%20Beach/solution.java) |
 
 ### strings
 
