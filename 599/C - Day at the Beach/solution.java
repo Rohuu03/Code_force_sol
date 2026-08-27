@@ -1,5 +1,5 @@
 //package DayAtTheBeach;
- 
+//NEW CODE THIS IS 
 import java.util.Scanner;
  
 public class Main {
