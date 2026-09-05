@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 8 |
+| 13 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (7)
@@ -33,6 +33,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 
 ### brute force
