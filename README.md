@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 7 |
+| 12 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (7)
@@ -27,6 +28,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 
 ### brute force
 
